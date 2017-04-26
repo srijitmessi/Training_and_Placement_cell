@@ -1,0 +1,693 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <NonVisualComponents>
+    <Component class="javax.swing.ButtonGroup" name="buttonGroup1">
+    </Component>
+    <Component class="javax.swing.ButtonGroup" name="buttonGroup2">
+    </Component>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="Secentha" alignment="0" max="32767" attributes="0"/>
+          <Group type="102" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="22" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="Twentytwoa" max="32767" attributes="0"/>
+                          <Component id="Twentyonea" max="32767" attributes="0"/>
+                          <Component id="Twentya" max="32767" attributes="0"/>
+                          <Component id="Eighteena" max="32767" attributes="0"/>
+                          <Component id="Nineteena" alignment="0" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="29" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                  <Component id="Eighteenb" max="32767" attributes="0"/>
+                                  <Component id="Nineteenb" pref="57" max="32767" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="36" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="Eighteenc" min="-2" pref="67" max="-2" attributes="0"/>
+                                  <Component id="Nineteenc" min="-2" pref="67" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="35" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="Eighteend" min="-2" pref="57" max="-2" attributes="0"/>
+                                  <Component id="Nineteend" min="-2" pref="57" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Group type="103" alignment="0" groupAlignment="1" attributes="0">
+                              <Component id="jScrollPane2" alignment="1" min="-2" pref="166" max="-2" attributes="0"/>
+                              <Group type="103" alignment="0" groupAlignment="1" max="-2" attributes="0">
+                                  <Component id="Twentyoneb" alignment="0" pref="170" max="32767" attributes="0"/>
+                                  <Component id="Twentyb" alignment="0" max="32767" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
+                      <Component id="Twentythree" min="-2" pref="186" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="176" max="-2" attributes="0"/>
+                      <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace pref="119" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="24" max="-2" attributes="0"/>
+              <Component id="Secentha" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="Eighteena" alignment="3" max="32767" attributes="0"/>
+                  <Component id="Eighteenb" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="Eighteenc" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="Eighteend" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="Nineteena" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="Nineteenb" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="Nineteenc" alignment="3" max="32767" attributes="0"/>
+                  <Component id="Nineteend" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="Twentya" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="Twentyb" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="Twentyonea" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="Twentyoneb" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="Twentytwoa" min="-2" max="-2" attributes="0"/>
+                  <Component id="jScrollPane2" min="-2" pref="58" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="22" max="-2" attributes="0"/>
+              <Component id="Twentythree" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
+              <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="Secentha">
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
+                          <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                              <Component id="Fifteena" alignment="0" max="32767" attributes="0"/>
+                              <Component id="Fourteena" alignment="0" pref="73" max="32767" attributes="0"/>
+                              <Component id="Thirteena" alignment="0" max="32767" attributes="0"/>
+                              <Component id="Twelvea" alignment="0" max="32767" attributes="0"/>
+                          </Group>
+                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                      <Component id="Twelveb" max="32767" attributes="0"/>
+                                      <Component id="Thirteenb" pref="176" max="32767" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Group type="103" groupAlignment="1" attributes="0">
+                                      <Component id="Fifteenb" alignment="0" pref="59" max="32767" attributes="0"/>
+                                      <Component id="Fourteenb" alignment="0" max="32767" attributes="0"/>
+                                      <Component id="Sixteenb" max="32767" attributes="0"/>
+                                      <Component id="Seventeenb" max="32767" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="Fourteenc" min="-2" pref="95" max="-2" attributes="0"/>
+                                      <Component id="Fifteenc" min="-2" pref="83" max="-2" attributes="0"/>
+                                      <Component id="Sixteenc" alignment="0" min="-2" pref="74" max="-2" attributes="0"/>
+                                      <Component id="Seventeenc" alignment="0" min="-2" pref="65" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="10" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="Fifteend" max="32767" attributes="0"/>
+                              <Component id="Fourteend" max="32767" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="-2" pref="118" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <Component id="Elevena" min="-2" pref="73" max="-2" attributes="0"/>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Component id="Elevenb" min="-2" pref="176" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="Seventha" min="-2" pref="76" max="-2" attributes="0"/>
+                                          <Component id="Tena" alignment="0" min="-2" pref="73" max="-2" attributes="0"/>
+                                          <Component id="Ninea" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="Eighta" alignment="0" min="-2" pref="73" max="-2" attributes="0"/>
+                                      </Group>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                          <Component id="Seventb" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="Eightb" min="-2" pref="173" max="-2" attributes="0"/>
+                                          <Component id="Nineb" min="-2" pref="173" max="-2" attributes="0"/>
+                                          <Component id="jScrollPane1" min="-2" pref="173" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                              </Group>
+                              <Group type="103" alignment="0" groupAlignment="1" attributes="0">
+                                  <Component id="Sixthc" min="-2" pref="173" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <Component id="fiftha" min="-2" pref="76" max="-2" attributes="0"/>
+                                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                                          <Component id="fifthb" max="32767" attributes="0"/>
+                                      </Group>
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <Component id="Fourtha" min="-2" pref="76" max="-2" attributes="0"/>
+                                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                                          <Component id="Fourthb" max="32767" attributes="0"/>
+                                      </Group>
+                                      <Group type="102" attributes="0">
+                                          <Component id="Thirda" min="-2" pref="84" max="-2" attributes="0"/>
+                                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                          <Component id="Thirdb" min="-2" pref="173" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <Component id="Sixtha" max="32767" attributes="0"/>
+                                          <EmptySpace max="-2" attributes="0"/>
+                                          <Component id="Sixthb" min="-2" pref="173" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                              </Group>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                                      <Component id="Seventeena" alignment="0" max="32767" attributes="0"/>
+                                      <Component id="Sixteena" alignment="0" max="32767" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="220" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="Seventeend" min="-2" pref="59" max="-2" attributes="0"/>
+                                      <Component id="Sixteend" min="-2" pref="59" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace min="-2" pref="94" max="-2" attributes="0"/>
+                                  <Component id="second" min="-2" pref="282" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <EmptySpace min="0" pref="86" max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="187" max="-2" attributes="0"/>
+                  <Component id="first" min="-2" pref="85" max="-2" attributes="0"/>
+                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="1" attributes="0">
+                  <EmptySpace min="-2" pref="24" max="-2" attributes="0"/>
+                  <Component id="first" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="second" min="-2" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="Thirda" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                              <Component id="Thirdb" alignment="3" max="32767" attributes="0"/>
+                          </Group>
+                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="Fourtha" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="Fourthb" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="fiftha" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="fifthb" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="Sixtha" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="Sixthb" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="-2" pref="5" max="-2" attributes="0"/>
+                          <Component id="Sixthc" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="Seventha" alignment="1" min="-2" pref="20" max="-2" attributes="0"/>
+                              <Component id="Seventb" alignment="1" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="Eighta" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="Eightb" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="32767" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="Ninea" alignment="3" min="-2" pref="25" max="-2" attributes="0"/>
+                              <Component id="Nineb" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="Tena" min="-2" max="-2" attributes="0"/>
+                              <Component id="jScrollPane1" min="-2" pref="53" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="-2" pref="13" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="Elevena" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="Elevenb" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="Twelvea" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="Twelveb" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                          <Component id="Thirteena" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="1" attributes="0">
+                          <EmptySpace min="-2" pref="380" max="-2" attributes="0"/>
+                          <Component id="Thirteenb" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace pref="16" max="32767" attributes="0"/>
+                  <Group type="103" groupAlignment="1" attributes="0">
+                      <Component id="Fourteena" min="-2" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="Fourteenb" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="Fourteend" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="Fourteenc" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="Fifteend" alignment="1" min="-2" pref="20" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="Fifteena" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="Fifteenb" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="Fifteenc" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="Sixteena" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="Sixteenb" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="Sixteenc" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="Sixteend" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="Seventeena" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="Seventeenc" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="Seventeenb" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="Seventeend" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="first">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="   Get In Touch"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="second">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Please fill up the details (These details will be used as CV)"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Thirda">
+          <Properties>
+            <Property name="text" type="java.lang.String" value=" Student&apos;s Name"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="Thirdb">
+          <Properties>
+            <Property name="text" type="java.lang.String" value=" "/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ThirdbActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Fourtha">
+          <Properties>
+            <Property name="text" type="java.lang.String" value=" Father&apos;s Name"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="Fourthb">
+          <Properties>
+            <Property name="text" type="java.lang.String" value=" "/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="fiftha">
+          <Properties>
+            <Property name="text" type="java.lang.String" value=" Mother&apos;s Name"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="fifthb">
+          <Properties>
+            <Property name="text" type="java.lang.String" value=" "/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Sixtha">
+          <Properties>
+            <Property name="text" type="java.lang.String" value=" Gender"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Sixthb">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Female"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="SixthbActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Sixthc">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Male"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="SixthcActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Seventha">
+          <Properties>
+            <Property name="text" type="java.lang.String" value=" DOB"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="Seventb">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="dd/mm/yyyy"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="SeventbActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Eighta">
+          <Properties>
+            <Property name="text" type="java.lang.String" value=" E-mail ID"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="Eightb">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="  "/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Ninea">
+          <Properties>
+            <Property name="text" type="java.lang.String" value=" Mobile Number"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="Nineb">
+          <Properties>
+            <Property name="text" type="java.lang.String" value=" "/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="NinebActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Tena">
+          <Properties>
+            <Property name="text" type="java.lang.String" value=" Address"/>
+          </Properties>
+        </Component>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTextArea" name="Tenb">
+              <Properties>
+                <Property name="columns" type="int" value="20"/>
+                <Property name="rows" type="int" value="5"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Component class="javax.swing.JLabel" name="Elevena">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="  Branch"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="Elevenb">
+          <Properties>
+            <Property name="text" type="java.lang.String" value=" "/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Twelvea">
+          <Properties>
+            <Property name="text" type="java.lang.String" value=" College"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="Twelveb">
+          <Properties>
+            <Property name="text" type="java.lang.String" value=" "/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Thirteena">
+          <Properties>
+            <Property name="text" type="java.lang.String" value=" Semester"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="Thirteenb">
+          <Properties>
+            <Property name="text" type="java.lang.String" value=" "/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Fourteena">
+          <Properties>
+            <Property name="text" type="java.lang.String" value=" 10th ( %)"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="Fourteenb">
+          <Properties>
+            <Property name="text" type="java.lang.String" value=" "/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Fifteena">
+          <Properties>
+            <Property name="text" type="java.lang.String" value=" 12th(%)"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="Fifteenb">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="  "/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="Fourteend">
+          <Properties>
+            <Property name="text" type="java.lang.String" value=" "/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Fourteenc">
+          <Properties>
+            <Property name="text" type="java.lang.String" value=" Passing Year"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Fifteenc">
+          <Properties>
+            <Property name="text" type="java.lang.String" value=" Passing Year"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="Fifteend">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="      "/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Sixteena">
+          <Properties>
+            <Property name="text" type="java.lang.String" value=" 1st Year(%)"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="Sixteenb">
+          <Properties>
+            <Property name="text" type="java.lang.String" value=" "/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Sixteenc">
+          <Properties>
+            <Property name="text" type="java.lang.String" value=" Passing Year"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="Sixteend">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="    "/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Seventeena">
+          <Properties>
+            <Property name="text" type="java.lang.String" value=" 2nd Year(%)"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Seventeenc">
+          <Properties>
+            <Property name="text" type="java.lang.String" value=" Passing Year"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="Seventeenb">
+          <Properties>
+            <Property name="text" type="java.lang.String" value=" "/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="Seventeend">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="                "/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JLabel" name="Eighteena">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="3rd Year(%)"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="Eighteenb">
+      <Properties>
+        <Property name="text" type="java.lang.String" value=" "/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="EighteenbActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Eighteenc">
+      <Properties>
+        <Property name="text" type="java.lang.String" value=" Passing Year"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="Nineteend">
+      <Properties>
+        <Property name="text" type="java.lang.String" value=" "/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="NineteendActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Nineteena">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="4th Year(%)"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="Nineteenb">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="NineteenbActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Nineteenc">
+      <Properties>
+        <Property name="text" type="java.lang.String" value=" Passing Year"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="Eighteend">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="                "/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="EighteendActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Twentya">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Nationality"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="Twentyb">
+      <Properties>
+        <Property name="text" type="java.lang.String" value=" "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Twentyonea">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Languages"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="Twentyoneb">
+      <Properties>
+        <Property name="text" type="java.lang.String" value=" "/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="TwentyonebActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Twentytwoa">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Objective"/>
+      </Properties>
+    </Component>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="Twentytwob">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="rows" type="int" value="5"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JButton" name="jButton1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Submit"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="Twentythree">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Click here to attach file"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
